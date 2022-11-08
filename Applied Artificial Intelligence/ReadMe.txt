@@ -1,1 +1,1 @@
-This is a code implementing a detectron using a mask RCNN network. I modeified the detectron tutorial uploaded by facebook in their github repository. From the model zoo, I picked the mask RCNN. I chose a video of my choice from youtube and and put it into the code and got my segmented output. 
+
