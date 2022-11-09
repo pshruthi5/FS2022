@@ -1,2 +1,2 @@
-This is a code implementing a detectron using a mask RCNN network. I modeified the detectron tutorial uploaded by facebook in their github repository. From the model zoo, I picked the mask RCNN. 
-I chose a video of my choice from youtube and and put it into the code and got my segmented output. I tried to capture an image using my local webcam, however, the results are not very satisfactory.
+This is a code implementing a detectron using a mask RCNN network. I modeified the detectron tutorial uploaded by facebook in their github repository. From the model zoo, I picked the mask RCNN. There are three types of outputs in the code, one is a video of my choice from youtube and and put its segmented output. The second is a an image using my local webcam, and the segmented image as the output. Third is a real-time(?) feed from my webcam and its output. 
+
