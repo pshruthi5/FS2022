@@ -1,4 +1,4 @@
-This project has been adapted from the SnorkelAI repository on GitHub, where I perform a weak supervision of chest radiographs. Here, I use the Snorkel Labeling functions to give the 
-radiographs a label, 1 or 2 based on the radiographers notes and and run it on a ResNet model to detect the abnormal chest radiographs by the notes provided. I had to make a lot of changes
-to the codes and the dependencies in the Snorkel Metal repository that I downloaded. The Snorkel Metal library is used for visualization of the data. In the repostory is also my report of 
-my project.   
+This project has been adapted from the SnorkelAI repository on GitHub, where I perform a weak supervision of chest radiographs. Here, I use the Snorkel Labeling functions to give the radiographs a label, 1 or 2 based on the radiographers notes and and run it on a ResNet model to detect the abnormal chest radiographs by the notes provided. I had to make a lot of changes to the codes and the dependencies in the Snorkel Metal repository that I downloaded. The Snorkel Metal library is used for visualization of the data. In the repostory is also my report of my project.  
+The dataset is an OpenI dataset of chest radiographs.
+Link for the modified repositories and the dataset: 
+https://drive.google.com/drive/folders/1hxuDdE2bY-4S1Zt6FH9mKSk4FlVBFLDq?usp=sharing
